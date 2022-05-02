@@ -1,0 +1,17 @@
+.choice-container {
+    display: flex;
+    width: 100%;
+    font-size: 1.85rem;
+    background-color: whitesmoke;
+    border: 3px solid rgb(14, 178, 199);
+}
+
+.choice-prefix {
+    padding: 1.75rem 2.75rem;
+    background-color: navy;
+    color: orange;
+}
+
+.choice-text {
+    padding: 1.75rem;
+}
